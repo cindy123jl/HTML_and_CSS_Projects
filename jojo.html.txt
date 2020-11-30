@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang=“eng”>
+	<head>
+		<title>Jojo’s Bizarre Adventure title goes hear about videos</title>
+		<meta charset=“utf-8”>
+	</head>
+	<body>
+	<h1>Jojo’s Bizarre Adventure Videos</h1>
+	<p>Jojo’s Bizarre Adventure is an anime with flamboyant characters!
+	Here I will have all the videos relating to Jojo’s Bizarre adventure
+	I will include videos, lets show you a picture first!</p>
+	<img src="download.jpg">
+	<h3>Jojo’s Bizarre Adventure sounds</h3>
+	<p> Here are the stand sounds</p>
+	</body>
+</html>
